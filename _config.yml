@@ -6,7 +6,7 @@
 name: Rod Morison
 
 # Short bio or description (displayed in the header)
-description: Because the "net" is just as fragile as...
+description: Nothing exists except atoms and empty space; everything else is just opinion.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/220009?s=460&v=4
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: rmorison
   instagram:
-  linkedin: rmorison
+  linkedin: rodmorison
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: rmorison
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-143682408-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
